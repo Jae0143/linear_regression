@@ -4,6 +4,7 @@ It is the mplementation of linear regression using Python for Extended Essay
 | File Name  | Description  |
 |---|---|
 | linear_regression_implement.ipynb | jupyter notebook document, that implements the techniques covered in the extended essay |
+|test_linreg.ipynb| Jupyter notebook document which tests various functions on another test / example data|
 | exdata1.txt| Test implementation of Univariate Linear Regression |
 |exdata2.txt| Implementation that can cover both uni- and multivariate Linear Regression. This example will be used in extended essay|
 
